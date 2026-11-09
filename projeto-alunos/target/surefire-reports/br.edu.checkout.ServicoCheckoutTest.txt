@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.edu.checkout.ServicoCheckoutTest
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.081 s -- in br.edu.checkout.ServicoCheckoutTest
